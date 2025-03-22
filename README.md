@@ -33,18 +33,18 @@ A Retrieval Augmented Generation (RAG) application that allows users to chat wit
 1. Clone the repository:
 ```bash
 git clone https://github.com/tahsinsoyak/rag-pdf-chat-app-hf.git
+```
+2. Navigate to the project directory:
+```bash
 cd rag-pdf-chat-app-hf
 ```
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
-3. Make sure you have a working environment with PyTorch installed. GPU support is optional but recommended for faster processing.
-
+Make sure you have a working environment with PyTorch installed. GPU support is optional but recommended for faster processing.
 ## Usage
-
 1. Start the application:
 ```bash
 python main.py
