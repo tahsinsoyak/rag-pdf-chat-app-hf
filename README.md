@@ -32,8 +32,8 @@ A Retrieval Augmented Generation (RAG) application that allows users to chat wit
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd llm-project-api
+git clone https://github.com/tahsinsoyak/rag-pdf-chat-app-hf.git
+cd rag-pdf-chat-app-hf
 ```
 
 2. Install the required dependencies:
